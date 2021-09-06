@@ -1,0 +1,12 @@
+{
+    "document" : {
+        "id" : null,
+        "skincd" : null
+    },
+    "documentSection": null,
+    "contactSection" : null,
+    "auth" : {
+        "ErrorMessage" : "",
+        "Loading" : false
+    }
+}
